@@ -1,2 +1,3 @@
 Hello!
 Questa è la prima modifica effettuata prima di fare lo staging.
+Seconda modifica effettuata!
